@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominik
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter and python
+- 🌱 I know many programming languages, for example C, C++, Java, Python, Dart...
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me email - dominikborek@seznam.cz
 
